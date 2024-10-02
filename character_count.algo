@@ -1,0 +1,16 @@
+step 1: create a container to hold the sentence.
+step 2: create a container to hold character count.
+step 3: read sentence into your sentence container.
+step 4: read each characters and add 1 to your character container
+step 5: print character count
+
+// count the number of words in a sentence
+step 1: create a container to hold sentence
+step 2: read into it
+step 3: create a container to hold word count
+step 4: read sentence character by character when single space is reached add 1 to the word count
+
+
+step 1: create a container that holds vowel
+step 2: 
+

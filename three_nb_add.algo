@@ -1,0 +1,24 @@
+ALGORITHM three_nb_add
+VAR
+    num1, num2, num3: INTEGER;
+    sum: INTEGER=0
+BEGIN
+    READ num1, num2, num3;
+    sum := num1 + num2 + num3;
+    WRITE sum;
+END
+
+// coun the number of characters in a string
+// step 1: create a container to hold the string
+// step 2: create a character to hold the count of characters
+// step 3: read the string 
+// step 4: count the number of character in a string and store it in the count container
+// step 5: print the count of characters
+
+ALGORITHM count_character
+VAR
+    str: STRING;
+    
+BEGIN
+    set_instructions
+END
